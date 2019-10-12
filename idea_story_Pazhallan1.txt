@@ -1,0 +1,110 @@
+Load new map: Hero/Partner's Room.
+Character spawn in: Hero (position)
+Camera: Fade-in.
+Action: Hero stand-and-stretch animation.
+Action: Hero look-around animation.
+
+Hero (Sad Portrait):
+"(It's been a month, but...)"
+
+Action: Hero turns to other hay pile.
+
+Hero (Sad Portrait)
+"(It still feels empty, without partner here.)"
+
+Action: Hero turns to doorway.
+Hero (Normal Portrait)
+"(Oh, well. Might as well get ready for the day...)"
+
+Camera: Fade-out.
+
+Load new map: Expedition Society 1F Center.
+Characters spawn-in: Ampharos (position)
+Camera: Fade-in.
+Buizel (position)
+Dedenne (position)
+Bunnelby (position)
+Mawile (position)
+Archen (position)
+Swirlix (position)
+
+Ampharos (Normal Portrait)
+"Give it your all out there, team!"
+
+Bottom text-box (null-speaker)
+"Yes, sir!"
+Action: All Pokemon do salute animation.
+
+Salute animation ends for all pokemon.
+Co-ordinate Move: Swirlix move off right. Despawn after.
+Archen move off down. Despawn after.
+Buizel move off down. Despawn after.
+Bunnelby move off down. Despawn after.
+Hero move off down. Despawn after.
+
+Action: Mawile turns to Ampharos.
+Mawile (Normal Portrait)
+"Ampharos? A word?"
+
+Action: Ampharos turns to Mawile.
+Ampharos (Normal Portrait)
+"Yes?"
+
+Action: Mawile shows worried animation.
+Mawile (Worried Portrait)
+"The way hero's been acting lately is... a little worrying."
+
+Ampharos (Normal Portrait)
+"You're not wrong. He or she's only had so long so deal with it, it's understandable."
+
+Mawile (Worried Portrait)
+"I'm just concerned he or she will do something reckless."
+
+Action: Jirachi shows happy animation.
+Jirachi (Happy Portrait)
+"I wouldn't worry about it!"
+
+Action: Jirachi shows idle animation.
+Jirachi (Normal Portrait)
+"Hero's been through a lot worse than a little grief!"
+
+Action: Ampharos turns to the middle (between Jirachi and Mawile)
+Ampharos (Normal Portrait)
+"I suppose you're right... but that can't stop us from caring for him."
+
+Ampharos (Normal Portrait)
+"Nuzleaf still hasn't come back, so we're who he has to turn to."
+
+Action: Mawile shows idle animation.
+Mawile (Normal Portrait)
+"I guess you're right..."
+"We'll check back after his or her mission today."
+
+Action: Jirachi shows excited animation.
+Jirachi (Happy Portrait)
+"You worry too much, Mawile!"
+
+Action: Ampharos has sweat-drop effect.
+
+Camera: Fade-out.
+
+Load new map: Lively Town Plaza
+Characters spawn in: Espurr, Hero, Klefki (in his store)
+Camera: Fade-in.
+
+Action: Espurr and Hero walk to the left to the gate.
+
+Action: Stop walking in front of the gate.
+Espurr (Normal Portrait)
+"You said you had something to do on Revelation Mountain."
+
+Action: Espurr turns toward the gate.
+Espurr (Normal Portrait)
+"I always found it quite beautiful. I look forward to returning."
+
+Action: Espurr turns back to the hero.
+Espurr (Normal Portrait)
+"So, shall we be going?"
+
+Return control to the player.
+Here we are! And I can start us off with a little bit later...
